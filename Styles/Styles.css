@@ -73,3 +73,12 @@ a {
 	color: #5b5b5b;
 	text-decoration: none;
 }
+ol {
+	padding-left: 50px;
+	font-family: "Arial";
+	color: #5b5b5b;
+	font-weight: bold;
+}
+li p {
+	margin-left: 20px;
+}
