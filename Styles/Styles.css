@@ -1,7 +1,7 @@
 body {
 	padding: 0;
 	margin: 0 auto;
-	background-color: #fffbc9;
+	background-color: #fff;
 	}
 	.clearfix:after {
 	content:'';
@@ -62,4 +62,14 @@ p {
 	margin-top: 50px;
 	margin-left: 20px;
 	text-align: justify;
+}
+.img_skill {
+	margin-left: 20px;
+}
+.skl{
+	margin-left: 20px;
+}	
+a {
+	color: #5b5b5b;
+	text-decoration: none;
 }
