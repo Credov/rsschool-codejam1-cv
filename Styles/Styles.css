@@ -32,15 +32,34 @@ div {
 	color: #5b5b5b;
 }
 .img_ame {
-	width: 200px;
-	height: 200px;
+	width: 330px; 
+	height: 330px;
 	margin-top: 20px;
 	margin-left: 12px;
-	float: left;
+	float: right;
 }
 .img_line {
 	width: 1024px;
 }
 h2 {
-	margin-left: 300px;
+	margin-left: 20px;
+	text-transform: uppercase;
+	font-family: "Arial";
+	color: #5b5b5b;
+}
+h3 {
+	margin-left: 30px;
+	text-transform: uppercase;
+	font-family: "Arial";
+	color: #5b5b5b;
+}
+p {
+	margin-left: 40px;
+	font-family: "Arial";
+	font-weight: bold;
+}
+.summary {
+	margin-top: 50px;
+	margin-left: 20px;
+	text-align: justify;
 }
