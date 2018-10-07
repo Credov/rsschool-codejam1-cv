@@ -82,3 +82,10 @@ ol {
 li p {
 	margin-left: 20px;
 }
+.foot {
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	font-family: "Arial";
+	color: #5b5b5b;
+}
